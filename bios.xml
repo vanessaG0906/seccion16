@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<matematicos>
+<matematico>
+  <apellido>Hamilton</apellido>
+  <nombre>William Rowan</nombre>
+  <nacimiento>1805</nacimiento>
+  <fallecimiento>1865</fallecimiento>
+  <imagen>William_Rowan_Hamilton.jpg</imagen>
+  <biografia>William Rowan Hamilton (Dublín, 4 de agosto de 1805-ibídem, 2 de septiembre de 1865) fue un matemático, físico, y astrónomo irlandés, que hizo importantes contribuciones al desarrollo de la óptica, la dinámica, y el álgebra. Su descubrimiento del cuaternión, junto con su sistematización de la dinámica, son sus trabajos más conocidos. Este último trabajo sería decisivo en el desarrollo de la mecánica cuántica, donde un concepto fundamental llamado hamiltoniano lleva su nombre.</biografia>
+</matematico>
+<matematico>
+  <apellido>Cauchy</apellido>
+  <nombre>Augustin</nombre>
+  <nacimiento>1789</nacimiento>
+  <fallecimiento>1857</fallecimiento>
+  <imagen>Augustin-Louis_Cauchy.jpg</imagen>
+  <biografia>Cauchy ha sido uno de los matemáticos más prolíficos de todos los tiempos, solo superado por Leonhard Euler, Paul Erdős y Arthur Cayley con cerca de 800 publicaciones y siete trabajos; su investigación cubre el conjunto de áreas matemáticas de la época. Fue pionero en análisis donde se le debe la introducción de las funciones holomorfas, los criterios de convergencia de series y las series de potencias. Sus trabajos sobre permutaciones fueron precursores de la teoría de grupos, contribuyendo de manera medular a su desarrollo. En óptica se le atribuyen trabajos sobre la propagación de ondas.</biografia>
+</matematico>
+<matematico>
+  <apellido>Bessel</apellido>
+  <nombre>Wilhem</nombre>
+  <nacimiento>1784</nacimiento>
+  <fallecimiento>1845</fallecimiento>
+  <imagen>Friedrich_Wilhelm_Bessel.jpeg</imagen>
+  <biografia>Bessel era hijo de una criada y a los 14 años pasó a ser aprendiz en una compañía mercantil de importaciones y exportaciones de Bremen. Ya de joven llegó ser el contable de la misma, y la confianza en su trabajo le llevó a aplicar sus facultades matemáticas a problemas de navegación, concentrando su interés en la astronomía como una salida para determinar la longitud.</biografia>
+</matematico>
+<matematico>
+  <apellido>Gauss</apellido>
+  <nombre>Carl Friedrich</nombre>
+  <nacimiento>1777</nacimiento>
+  <fallecimiento>1855</fallecimiento>
+  <imagen>Carl_Friedrich_Gauss.jpg</imagen>
+  <biografia>Johann Carl Friedrich Gauss (Braunschweig, 30 de abril de 1777-Gotinga, 23 de febrero de 1855) fue un matemático, astrónomo y físico alemán que contribuyó significativamente en muchos ámbitos, incluida la teoría de números, el análisis matemático, la geometría diferencial, la estadística, el álgebra, la geodesia, el magnetismo y la óptica. Considerado ya en vida como Princeps Mathematicorum, príncipe de los matemáticos, Gauss ha tenido una influencia notable en muchos campos de las matemáticas y de la ciencia. Fue de los primeros en extender el concepto de divisibilidad a otros conjuntos además de los números enteros.</biografia>
+</matematico>
+<matematico>
+  <apellido>Euler</apellido>
+  <nombre>Leonhard</nombre>
+  <nacimiento>1707</nacimiento>
+  <fallecimiento>1783</fallecimiento>
+  <imagen>Leonhard_Euler.jpg</imagen>
+  <biografia>Leonhard Paul Euler (Basilea, Suiza; 15 de abril de 1707-San Petersburgo, Imperio ruso; 18 de septiembre de 1783), conocido como Leonhard Euler y también llamado Leonardo Euler en español, fue un matemático y físico suizo. Se trata del principal matemático del siglo xviii y uno de los más grandes y prolíficos de todos los tiempos, muy conocido por el número de Euler (e), número que aparece en muchas fórmulas de cálculo y física.</biografia>
+</matematico>
+<matematico>
+  <apellido>Goldbach</apellido>
+  <nombre>Christian</nombre>
+  <nacimiento>1690</nacimiento>
+  <fallecimiento>1764</fallecimiento>
+  <imagen>Christian_Goldbach.jpg</imagen>
+  <biografia>Christian Goldbach (18 de marzo de 1690 - 20 de noviembre de 1764) fue un matemático prusiano, nacido en Königsberg, Prusia (hoy Kaliningrado, Rusia), hijo de un pastor. Estudió leyes, idiomas y matemáticas. Realizó varios viajes a través de Europa y conoció a varios matemáticos famosos, como Gottfried Leibniz, Leonhard Euler y Daniel Bernoulli. En 1725 se convirtió en historiador y profesor de matemáticas en San Petersburgo. Tres años más tarde se trasladó a Moscú para trabajar para el zar Pedro II de Rusia</biografia>
+</matematico>
+<matematico>
+  <apellido>Babbage</apellido>
+  <nombre>Charles</nombre>
+  <nacimiento>1792</nacimiento>
+  <fallecimiento>1892</fallecimiento>
+  <imagen>CharlesBabbage.jpg</imagen>
+  <biografia>Charles Babbage fue un matemático y científico de la computación británica. Diseñó y desarrolló una calculadora mecánica capaz de calcular tablas de funciones numéricas por el método de diferencias. También diseñó, (pero nunca construyó), la analítica para ejecutar programas de tabulación o computación; por estos inventos se le considera como una de las primeras personas en concebir la idea de lo que hoy llamaríamos una computadora, por lo que se le considera como "El padre de los ordenadores".</biografia>
+</matematico>
+<matematico>
+  <apellido>Lobachevski</apellido>
+  <nombre>Nikolái</nombre>
+  <nacimiento>1792</nacimiento>
+  <fallecimiento>1856</fallecimiento>
+  <imagen>Lobachevsky.jpg</imagen>
+  <biografia>Lobachevski nació en Rusia el 1 de diciembre de 1792. Estudió en el gymnasium de Kazán desde 1802 hasta 1807. Con sólo 15 años ingresa en la Universidad de Kazán, cursando de 1807 a 1811. Enseñó en dicha Universidad desde 1812, obteniendo el título de catedrático en 1816. Fue elegido en 1827 rector de la Universidad de Kazán, siendo un centro modelo de enseñanza superior de aquel tiempo.</biografia>
+</matematico>
+<matematico>
+  <apellido>Möbius</apellido>
+  <nombre>August</nombre>
+  <nacimiento>1790</nacimiento>
+  <fallecimiento>1868</fallecimiento>
+  <imagen>August_Ferdinand_Mobius.png</imagen>
+  <biografia>Möbius nació en el colegio Schulpforta (Sajonia-Anhalt), donde su padre Johann Heinrich Möbius (1742-1792) enseñaba danza. Su madre, Johanne Katharine Christiane Keil (1756-1820), pertenecía a la séptima generación descendiente del reformador religioso Martín Lutero. Como su esposo falleció cuando su único hijo contaba tres años, fue ella quien lo educó hasta los trece, edad con la cual ingresó en el colegio Schulpforta.</biografia>
+</matematico>
+<matematico>
+  <apellido>Dedekind</apellido>
+  <nombre>Julius Wilhelm Richard</nombre>
+  <nacimiento>1831</nacimiento>
+  <fallecimiento>1916</fallecimiento>
+  <imagen>Dedekind.jpeg</imagen>
+  <biografia>Julius Wilhelm Richard Dedekind (6 de octubre de 1831-12 de febrero de 1916) fue un matemático alemán. Nació en Brunswick, el más joven de los cuatro hijos de Julius Levin Ulrich Dedekind. Vivió con Julia, su hermana soltera, hasta que esta falleció en 1914;. En 1848 entró en el Colegium Carolinum de su ciudad natal, y en 1850, con sólidos conocimientos de matemáticas en la Universidad de Gotinga.</biografia>
+</matematico>
+<matematico>
+  <apellido>Kronecker</apellido>
+  <nombre>Leopold</nombre>
+  <nacimiento>1823</nacimiento>
+  <fallecimiento>1891</fallecimiento>
+  <imagen>Leopold_Kronecker_1865.jpg</imagen>
+  <biografia>Hijo de un comerciante judío, con el tiempo se convertiría al cristianismo. En 1845 se doctoró en la Universidad de Berlín y en ese año escribió su disertación sobre teoría de números, dando una formulación especial a las unidades en ciertos campos numéricos algebraicos. Su tutor fue Peter Gustav Dirichlet. Matemático y lógico, Kronecker defendía que la aritmética y el análisis deben estar fundados en los números enteros prescindiendo de los irracionales e imaginarios. Fue autor de una frase muy conocida entre los matemáticos: "Dios hizo los números enteros; el resto es obra del hombre" (Bell 1986, p.477). Esto puso a Kronecker en contra de varias de las extensiones matemáticas de Georg Cantor. Kronecker fue discípulo y amigo de Ernst Kummer.</biografia>
+</matematico>
+<matematico>
+  <apellido>Hilbert</apellido>
+  <nombre>David</nombre>
+  <nacimiento>1862</nacimiento>
+  <fallecimiento>1943</fallecimiento>
+  <imagen>Hilbert.jpg</imagen>
+  <biografia>David Hilbert (Königsberg, Prusia Oriental; 23 de enero de 1862-Gotinga, Alemania; 14 de febrero de 1943) fue un matemático alemán, reconocido como uno de los más influyentes del siglo xix y principios del XX. Estableció su reputación como gran matemático y científico inventando y desarrollando un gran abanico de ideas, como la teoría de invariantes, la axiomatización de la geometría y la noción de espacio de Hilbert, uno de los fundamentos del análisis funcional. Hilbert y sus estudiantes proporcionaron partes significativas de la infraestructura matemática necesaria para la mecánica cuántica y la relatividad general. Fue uno de los fundadores de la teoría de la demostración, la lógica matemática y la distinción entre matemática y metamatemática. Adoptó y defendió vivamente la teoría de conjuntos y los números transfinitos de Georg Cantor. Un ejemplo famoso de su liderazgo mundial en la matemática es su presentación en 1900 de un conjunto de problemas abiertos que incidió en el curso de gran parte de la investigación matemática del siglo xx.</biografia>
+</matematico>
+<matematico>
+  <apellido>Riemann</apellido>
+  <nombre>Georg Friedrich Bernhard</nombre>
+  <nacimiento>1826</nacimiento>
+  <fallecimiento>1866</fallecimiento>
+  <imagen>Georg_Friedrich_Bernhard_Riemann.jpeg</imagen>
+  <biografia>Georg Friedrich Bernhard Riemann (Breselenz, 17 de septiembre de 1826-Verbania, 20 de julio de 1866) fue un matemático alemán que realizó contribuciones muy importantes al análisis y la geometría diferencial, algunas de las cuales allanaron el camino para el desarrollo más avanzado de la relatividad general. Su nombre está conectado con la función zeta, la hipótesis de Riemann, la integral de Riemann, el lema de Riemann, las variedades de Riemann, las superficies de Riemann y la geometría de Riemann. A través de sus contribuciones pioneras a la geometría diferencial, Riemann sentó las bases de las matemáticas de la relatividad general. Es considerado por muchos como uno de los más grandes matemáticos de todos los tiempos.</biografia>
+</matematico>
+<matematico>
+  <apellido>Galois</apellido>
+  <nombre>Évariste</nombre>
+  <nacimiento>1811</nacimiento>
+  <fallecimiento>1832</fallecimiento>
+  <imagen>Evariste_Galois.jpg</imagen>
+  <biografia>Évariste Galois (Bourg-la-Reine, 25 de octubre de 1811- París, 31 de mayo de 1832) fue un matemático francés. Mientras aún era un adolescente, fue capaz de determinar la condición necesaria y suficiente para que una ecuación algebraica sea resuelta por radicales. Dio solución a un problema abierto mediante el nuevo concepto de grupo de permutaciones. Su trabajo ofreció las bases fundamentales para la teoría que lleva su nombre, una rama principal del álgebra abstracta. Fue el primero en utilizar el término «grupo» en un contexto matemático.</biografia>
+</matematico>
+<matematico>
+  <apellido>Cantor</apellido>
+  <nombre>Georg Ferdinand Ludwig Philipp</nombre>
+  <nacimiento>1845</nacimiento>
+  <fallecimiento>1918</fallecimiento>
+  <imagen>Georg_Cantor.jpg</imagen>
+  <biografia>Georg Ferdinand Ludwig Philipp Cantor (San Petersburgo, 3 de marzo de 1845 - Halle, 6 de enero de 1918), conocido como Georg Cantor, fue un matemático nacido en Rusia, nacionalizado alemán, de ascendencia austríaca y judía. Fue inventor con Dedekind de la teoría de conjuntos, que es la base de las matemáticas modernas. Gracias a sus atrevidas investigaciones sobre los conjuntos infinitos fue el primero capaz de formalizar la noción de infinito bajo la forma de los números transfinitos (cardinales y ordinales).</biografia>
+</matematico>
+<matematico>
+  <apellido>Boole</apellido>
+  <nombre>George</nombre>
+  <nacimiento>1815</nacimiento>
+  <fallecimiento>1864</fallecimiento>
+  <imagen>George_Boole.jpg</imagen>
+  <biografia>George Boole (Lincoln, Lincolnshire, Inglaterra, 2 de noviembre de 1815-Ballintemple, Condado de Cork, Irlanda, 8 de diciembre de 1864) fue un matemático y lógico británico. Como inventor del álgebra de Boole, que marca los fundamentos de la aritmética computacional moderna, Boole es considerado como uno de los fundadores del campo de las ciencias de la computación. En 1854 publicó An Investigation of the Laws of Thought on Which are Founded the Mathematical Theories of Logic and Probabilities, donde desarrolló un sistema de reglas que le permitían expresar, manipular y simplificar problemas lógicos y filosóficos cuyos argumentos admiten dos estados (verdadero o falso) por procedimientos matemáticos. Se podría decir que es el padre de los operadores lógicos simbólicos y que gracias a su álgebra hoy en día es posible operar simbólicamente para realizar operaciones lógicas</biografia>
+</matematico>
+<matematico>
+  <apellido>Abel</apellido>
+  <nombre>Niels Henrik</nombre>
+  <nacimiento>1802</nacimiento>
+  <fallecimiento>1829</fallecimiento>
+  <imagen>Niels_Henrik_Abel.jpg</imagen>
+  <biografia>Niels Henrik Abel (Findö, actual Noruega, 5 de agosto de 1802-Froland, 6 de abril de 1829) fue un matemático noruego, célebre fundamentalmente por haber probado en 1824 que no hay ninguna fórmula para hallar las raíces de todos los polinomios generales de grados n ≥ 5 en términos de sus coeficientes; y en el de las funciones elípticas, ámbito en el que desarrolló un método general para la construcción de funciones periódicas recíprocas de la integral elíptica.</biografia>
+</matematico>
+<matematico>
+  <apellido>Poincaré</apellido>
+  <nombre>Jules Henri</nombre>
+  <nacimiento>1854</nacimiento>
+  <fallecimiento>1912</fallecimiento>
+  <imagen>Poincare.jpg</imagen>
+  <biografia>(Nancy, Francia, 29 de abril de 1854-París, 17 de julio de 1912), generalmente conocido como Henri Poincaré, fue un prestigioso polímata: matemático, físico, científico teórico y filósofo de la ciencia, primo del presidente de Francia Raymond Poincaré. Poincaré es descrito a menudo como el último universalista capaz de entender y contribuir en todos los ámbitos de la disciplina matemática. En 1894 estableció el grupo fundamental de un espacio topológico.</biografia>
+</matematico>
+<matematico>
+  <apellido>Laplace</apellido>
+  <nombre>Pierre-Simon</nombre>
+  <nacimiento>1749</nacimiento>
+  <fallecimiento>1827</fallecimiento>
+  <imagen>Pierre-Simon,_marquis_de_Laplace.jpg</imagen>
+  <biografia>(Beaumont-en-Auge, Normandía, Francia, 23 de marzo de 1749-París, 5 de marzo de 1827) fue un astrónomo, físico y matemático francés. Continuador de la mecánica newtoniana, hizo un gran aporte para el posterior descubrimiento de la transformada de Laplace, y descubrió la ecuación de Laplace; como estadístico sentó las bases de la teoría analítica de la probabilidad; y como astrónomo planteó la teoría nebular sobre la formación del sistema solar. Compartió la doctrina filosófica del determinismo científico.</biografia>
+</matematico>
+<matematico>
+  <apellido>Fourier</apellido>
+  <nombre>Jean-Baptiste Joseph</nombre>
+  <nacimiento>1768</nacimiento>
+  <fallecimiento>1830</fallecimiento>
+  <imagen>Joseph_Fourier.jpg</imagen>
+  <biografia>(Auxerre, Francia, 21 de marzo de 1768-París, 16 de mayo de 1830) fue un matemático y físico francés conocido por sus trabajos sobre la descomposición de funciones periódicas en series trigonométricas convergentes llamadas Series de Fourier, método con el cual consiguió resolver la ecuación del calor. La transformada de Fourier recibe su nombre en su honor. Fue el primero en dar una explicación científica al efecto invernadero en un tratado.</biografia>
+</matematico>
+<matematico>
+  <apellido>Lagrange</apellido>
+  <nombre>Joseph-Louis</nombre>
+  <nacimiento>1736</nacimiento>
+  <fallecimiento>1813</fallecimiento>
+  <imagen>lagrange.jpg</imagen>
+  <biografia>(Turín, 25 de enero de 1736-París, 10 de abril de 1813), fue un físico, matemático y astrónomo italiano, que después de formarse en su Italia natal pasó la mayor parte de su vida en Prusia y Francia. Lagrange trabajó en Berlín durante veinte años para Federico II de Prusia. Aportó avances transcendentales en múltiples ramas de las matemáticas, desarrolló la mecánica Lagrangiana y fue el autor de novedosos trabajos de astronomía. Tanto por la importancia como por el volumen de sus contribuciones científicas se le puede considerar uno de los físicos y matemáticos más destacados de la historia.</biografia>
+</matematico>
+<matematico>
+  <apellido>Legendre</apellido>
+  <nombre>Adrien-Marie</nombre>
+  <nacimiento>1752</nacimiento>
+  <fallecimiento>1833</fallecimiento>
+  <imagen>Adrien-Marie-Legendre.png</imagen>
+  <biografia>(18 de septiembre de 1752-10 de enero de 1833), fue un destacado matemático francés. Otorgó importantes contribuciones a la estadística, a la teoría de números, al álgebra abstracta y al análisis matemático. Intervino en geodesia y en la comisión que estableció el metro como unidad de medida internacional.</biografia>
+</matematico>
+<matematico>
+  <apellido>Jacobi</apellido>
+  <nombre>Carl Gustav Jakob</nombre>
+  <nacimiento>1804</nacimiento>
+  <fallecimiento>1851</fallecimiento>
+  <imagen>Carl_Jacobi.jpg</imagen>
+  <biografia>(10 de diciembre de 1804, Potsdam, Prusia, actual Alemania-18 de febrero de 1851, Berlín) fue un matemático alemán de origen judío. Autor muy prolífico, contribuyó en varios campos de la matemática, principalmente en el área de las funciones elípticas, el álgebra, la teoría de números y las ecuaciones diferenciales. También destacó en su labor pedagógica, por la que se le ha considerado el profesor más estimulante de su tiempo. Fue el primer matemático judío en ocupar el cargo de profesor en una universidad alemana.</biografia>
+</matematico>
+<matematico>
+  <apellido>Pascal</apellido>
+  <nombre>Blaise</nombre>
+  <nacimiento>1623</nacimiento>
+  <fallecimiento>1662</fallecimiento>
+  <imagen>Blaise_Pascal_Versailles.jpg</imagen>
+  <biografia>(Clermont-Ferrand, 19 de junio 1623-París, 19 de agosto de 1662) fue un matemático, físico, filósofo, teólogo católico y apologista francés. Sus contribuciones a la matemática y a la historia natural incluyen el diseño y construcción de calculadoras mecánicas, aportes a la teoría de la probabilidad, investigaciones sobre los fluidos y la aclaración de conceptos tales como la presión y el vacío. Después de un trastorno depresivo y una experiencia religiosa profunda en 1654, Pascal se dedicó también a la filosofía y a la teología.</biografia>
+</matematico>
+<matematico>
+  <apellido>Newton</apellido>
+  <nombre>Sir Isaac</nombre>
+  <nacimiento>1642</nacimiento>
+  <fallecimiento>1727</fallecimiento>
+  <imagen>Newton.jpg</imagen>
+  <biografia>(Woolsthorpe, Lincolnshire; 25 de diciembre de 1642 jul./ 4 de enero de 1643 greg.-Kensington, Londres; 20 de marzojul./ 31 de marzo de 1727greg.) fue un físico, teólogo, inventor, alquimista y matemático inglés. Es autor de los Philosophiæ naturalis principia mathematica, más conocidos como los Principia, donde describe la ley de la gravitación universal y estableció las bases de la mecánica clásica mediante las leyes que llevan su nombre. Entre sus otros descubrimientos científicos destacan los trabajos sobre la naturaleza de la luz y la óptica (que se presentan principalmente en su obra Opticks), y en matemáticas, el desarrollo del cálculo infinitesimal.</biografia>
+</matematico>
+<matematico>
+  <apellido>Leibniz</apellido>
+  <nombre>Gottfried Wilhelm</nombre>
+  <nacimiento>1646</nacimiento>
+  <fallecimiento>1716</fallecimiento>
+  <imagen>Leibniz.jpg</imagen>
+  <biografia>(Leipzig, 1 de julio de 1646-Hannover, 14 de noviembre de 1716), fue un polímata, filósofo, matemático, lógico, teólogo, jurista, bibliotecario y político alemán. Fue uno de los grandes pensadores de los siglos xvii y xviii, y se le reconoce como el «último genio universal», esto es, la última persona que pudo formarse suficientemente en todos los campos del conocimiento; después ya solo hubo especialistas. Realizó profundas e importantes contribuciones en las áreas de metafísica, epistemología, lógica, filosofía de la religión, así como en la matemática, física, geología, jurisprudencia e historia. Incluso Denis Diderot, el filósofo deísta francés del siglo xviii, cuyas opiniones no podrían estar en mayor oposición a las de Leibniz, no podía evitar sentirse sobrecogido ante sus logros, y escribió en la Encyclopédie: «Quizás nunca haya un hombre que haya leído tanto, estudiado tanto, meditado más y escrito más que Leibniz… Lo que ha elaborado sobre el mundo, sobre Dios, la naturaleza y el alma es de la más sublime elocuencia. Si sus ideas hubiesen sido expresadas con el olfato de Platón, el filósofo de Leipzig no cedería en nada al filósofo de Atenas».</biografia>
+</matematico>
+<matematico>
+  <apellido>Fermat</apellido>
+  <nombre>Pierre de</nombre>
+  <nacimiento>1601</nacimiento>
+  <fallecimiento>1665</fallecimiento>
+  <imagen>Fermat.jpg</imagen>
+  <biografia>(Beaumont-de-Lomagne, Francia; 17 de agosto de 1601-Castres, Francia; 12 de enero de 1665) fue un jurista y matemático francés denominado con el apodo de «príncipe de los aficionados». Fermat fue junto con René Descartes y Johannes Kepler uno de los principales matemáticos de la primera mitad del siglo xvii. Joseph-Louis Lagrange afirmó claramente que consideraba a Fermat como el inventor del cálculo. Fermat fue cofundador de la teoría de probabilidades junto a Blaise Pascal e independientemente de Descartes, descubrió el principio fundamental de la geometría analítica. Sin embargo, es más conocido por sus aportaciones a la teoría de números en especial por el conocido como último teorema de Fermat, que preocupó a los matemáticos durante aproximadamente 350 años, hasta que fue demostrado en 1995 por Andrew Wiles ayudado por Richard Taylor sobre la base del teorema de Shimura-Taniyama.</biografia>
+</matematico>
+<matematico>
+  <apellido>Taylor</apellido>
+  <nombre>Brook</nombre>
+  <nacimiento>1685</nacimiento>
+  <fallecimiento>1731</fallecimiento>
+  <imagen>Taylor.jpg</imagen>
+  <biografia>(Edmonton, Middlesex, Inglaterra, 18 de agosto de 1685 - Somerset House, Londres, 29 de diciembre de 1731) fue un matemático británico, autor del teorema que lleva su nombre y de destacadas contribuciones al desarrollo del cálculo diferencial. Hijo de John Taylor Swift, del Parlamento de Bifrons, y de Olivia Tempest (hija de Sir Nicholas Tempest). Entró en la Universidad de St. John de Cambridge como estudiante en 1701. Se licenció en Derecho en 1709, y se doctoró en 1714. Estudió matemáticas con John Machin y John Keill. En 1708 encontró una importante solución del problema del "centro de oscilación" que, sin embargo, no se publicó hasta mayo de 1714 ("Phylosophycal Transactions of the Royal Society" vol.28), lo que provocó una disputa sobre su autoría con Johann Bernoulli.</biografia>
+</matematico>
+<matematico>
+  <apellido>Descartes</apellido>
+  <nombre>René</nombre>
+  <nacimiento>1596</nacimiento>
+  <fallecimiento>1650</fallecimiento>
+  <imagen>Descartes.jpg</imagen>
+  <biografia>(La Haye en Touraine, 31 de marzo de 1596-Estocolmo, 11 de febrero de 1650) fue un filósofo, matemático y físico francés considerado el padre de la geometría analítica y la filosofía moderna, así como uno de los protagonistas con luz propia en el umbral de la revolución científica. Su método filosófico y científico, que expone en Reglas para la dirección de la mente (1628) y más explícitamente en su Discurso del método (1637), establece una clara ruptura con la escolástica que se enseñaba en las universidades. Está caracterizado por su simplicidad —en su Discurso del método únicamente propone cuatro normas— y pretende romper con los interminables razonamientos escolásticos. Toma como modelo el método matemático, en un intento de acabar con el silogismo aristotélico empleado durante toda la Edad Media. Muchos elementos de la filosofía de Descartes tienen precedentes en el aristotelismo tardío, el neoestoicismo del siglo xvi o en filósofos medievales.</biografia>
+</matematico>
+</matematicos>
